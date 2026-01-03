@@ -10,8 +10,10 @@ While it looks nice, its still in its early days, i plan on making pictures of w
 I still have to get a lot of things done, like adding chord extentions and inversions, saving/loading progressions...
 
 This is how it looks like!
+
 <img width="1203" height="702" alt="image" src="https://github.com/user-attachments/assets/402c87d8-8615-4c0e-9564-62da1c906a88" />
 
 And this is how the "Suprise Me" feature looks like!
+
 <img width="1205" height="706" alt="image" src="https://github.com/user-attachments/assets/55f2a846-883a-456b-8900-68293b298650" />
 
