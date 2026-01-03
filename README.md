@@ -1,19 +1,50 @@
 # Unwound
 Unwound - chord progression generator
 
-Unwound is a modern, interactive music helper for generating chord progressions in any key. Designed with musicians, composers, and hobbyists in mind, it helps you quickly explore musical ideas, experiment with scales, and get creative with chords.
-
-Built with C# and WPF, Unwound combines a clean, modern interface with responsive design and dynamic gradients for a professional look and feel.
-
-While it looks nice, its still in its early days, i plan on making pictures of what those chords would actually look like when played on a real intrument (thats what those instruments on the left side are supoosed to be).
-
-I still have to get a lot of things done, like adding chord extentions and inversions, saving/loading progressions...
-
-This is how it looks like!
+A modern, edgy WPF application for generating chord progressions. Perfect for musicians, composers, and anyone looking for musical inspiration.
 
 <img width="1203" height="702" alt="image" src="https://github.com/user-attachments/assets/402c87d8-8615-4c0e-9564-62da1c906a88" />
 
-And this is how the "Suprise Me" feature looks like!
 
-<img width="1205" height="706" alt="image" src="https://github.com/user-attachments/assets/55f2a846-883a-456b-8900-68293b298650" />
+Features
 
+🎸 Multiple Instruments - Guitar, Piano, Bass, Synth support
+🎵 Various Scales - Major, Minor, and Chromatic scales
+🎲 Random Generation - "Surprise Me" feature for instant inspiration
+🎨 Modern Dark UI - Cyberpunk-inspired design with neon green accents
+⚡ Fast & Responsive - Instant chord progression generation
+📐 Resizable Interface - Adapts to any window size
+
+<img width="1196" height="701" alt="image" src="https://github.com/user-attachments/assets/076aa5ee-bcd3-41d5-9f14-e31ad22cb199" />
+
+
+How to Use
+
+1. Select Key - Choose your root key (C, D, E, etc.)
+2. Select Scale - Pick Major, Minor, or Chromatic
+3. Choose Chord Count - Select how many chords you want (2-10)
+4. Generate - Click "Refresh" for a new progression or "Surprise Me" for random settings
+5. View Results - See both Roman numeral notation and chord names
+
+
+Prerequisites
+
+ Windows 10/11
+ .NET 6.0 or higher
+
+
+Technologies Used
+
+ WPF (Windows Presentation Foundation)
+ C# .NET 6.0+
+ XAML for UI design
+
+
+Future Features
+
+ Audio playback of progressions
+ Save/load favorite progressions
+ Export to MIDI
+ More scale types (Dorian, Phrygian, etc.)
+ Chord extensions (7ths, 9ths, etc.)
+ Progression suggestions based on popular songs
