@@ -3,7 +3,8 @@ Unwound - chord progression generator
 
 A modern, edgy WPF application for generating chord progressions. Perfect for musicians, composers, and anyone looking for musical inspiration.
 
-<img width="1203" height="702" alt="image" src="https://github.com/user-attachments/assets/402c87d8-8615-4c0e-9564-62da1c906a88" />
+<img width="1201" height="702" alt="1" src="https://github.com/user-attachments/assets/5a5692fc-12fe-4709-ad0e-b5eb5659650a" />
+
 
 
 Features
@@ -15,7 +16,9 @@ Features
 ⚡ Fast & Responsive - Instant chord progression generation
 📐 Resizable Interface - Adapts to any window size
 
-<img width="1196" height="701" alt="image" src="https://github.com/user-attachments/assets/076aa5ee-bcd3-41d5-9f14-e31ad22cb199" />
+<img width="1200" height="701" alt="2" src="https://github.com/user-attachments/assets/7a2ff603-3d56-47fb-824d-997aaa2aed46" />
+
+<img width="1201" height="701" alt="3" src="https://github.com/user-attachments/assets/19f0c71f-6590-4bdc-b04b-c85ced05615a" />
 
 
 How to Use
